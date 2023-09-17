@@ -1,0 +1,23 @@
+keys : pair
+name : mayank
+age : 21
+
+objects-in-yaml :
+  name : "node server is the best"
+  capacity : 20GB
+  notes : "String datatype can be written in double-quotes or without it"
+
+list-in-yaml : 
+  - LinkedIn
+  - GitHub
+
+test-multi-line-comments : |
+  this pipe operator is used for multiline comment
+
+michaeleneous : 
+  - first-list-item-as-object : 
+    name : ram
+    type : straight
+  - second-list-type-as-object :
+    name : rogh
+    type : not-straight 
